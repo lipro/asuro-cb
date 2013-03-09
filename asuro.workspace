@@ -29,6 +29,9 @@
 		<Project filename="rc5-test/rc5-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="self-test/self-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="switch-test/switch-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
