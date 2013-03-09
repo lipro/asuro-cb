@@ -23,6 +23,9 @@
 		<Project filename="ircollision-test/ircollision-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="line-test/line-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="switch-test/switch-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
