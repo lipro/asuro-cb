@@ -8,6 +8,9 @@
 		<Project filename="button-test/button-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="collision-test/collision-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="first-try/first-try.cbp" active="1">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
