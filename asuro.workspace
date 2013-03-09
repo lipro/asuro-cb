@@ -17,6 +17,9 @@
 		<Project filename="first-try/first-try.cbp" active="1">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="i2clcd-test/i2clcd-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="switch-test/switch-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
