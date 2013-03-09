@@ -26,6 +26,9 @@
 		<Project filename="line-test/line-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="rc5-test/rc5-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="switch-test/switch-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
