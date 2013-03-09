@@ -26,6 +26,9 @@
 		<Project filename="line-test/line-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
+		<Project filename="motor-test/motor-test.cbp">
+			<Depends filename="asuro/asuro.cbp" />
+		</Project>
 		<Project filename="rc5-test/rc5-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
@@ -35,7 +38,7 @@
 		<Project filename="switch-test/switch-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
-		<Project filename="motor-test/motor-test.cbp" active="1">
+		<Project filename="ultrasonic-test/ultrasonic-test.cbp">
 			<Depends filename="asuro/asuro.cbp" />
 		</Project>
 	</Workspace>
